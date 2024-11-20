@@ -1,5 +1,5 @@
 ### Waterpolo Website
-=================
+-----------------
 
 This is the official website for the **Waterpolo gang** :)
 
